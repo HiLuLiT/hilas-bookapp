@@ -1,0 +1,28 @@
+.book {
+  .info {
+    padding: 10px;
+    position: relative;
+  }
+  button {
+    display: block;
+    width: 32px;
+    height: 32px;
+    box-shadow: 4px 4px 42px 0 rgba(0, 0, 0, 0.22);
+    border-radius: 30px;
+    cursor: pointer;
+    &.edit {
+      color: white;
+      background-image: radial-gradient(circle at 0 0, #3023ae, #c86dd7);
+      position: absolute;
+      top: 10px;
+      right: 0;
+    }
+    &.delete {
+      color: white;
+      background-image: linear-gradient(to bottom, #f551a9, #9f041b);
+      position: absolute;
+      top: 50px;
+      right: 0;
+    }
+  }
+}

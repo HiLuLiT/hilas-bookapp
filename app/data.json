@@ -1,0 +1,36 @@
+[{
+    "id": 1,
+    "author": "Barack Obama",
+    "year": "2010",
+    "title": "Of Thee I Sing!",
+    "image": "https://picsum.photos/250/380/?image=102"
+  },
+  {
+    "id": 2,
+    "author": "Anthony Bugess",
+    "year": "1962",
+    "title": "A Cloclwork Orange",
+    "image": "https://picsum.photos/250/380/?image=200"
+  },
+  {
+    "id": 3,
+    "author": "Hermann Hesse",
+    "year": "1919",
+    "title": "Demian",
+    "image": "https://picsum.photos/250/380/?image=302"
+  },
+  {
+    "id": 4,
+    "author": "James Clavell",
+    "year": "1975",
+    "title": "Shogun",
+    "image": "https://picsum.photos/250/380/?image=400"
+  },
+  {
+    "id": 5,
+    "author": "Antoine de Saint-Exupéry",
+    "year": "1943",
+    "title": "The Little Prince",
+    "image": "https://picsum.photos/250/380/?image=500"
+  }
+]
